@@ -28,8 +28,3 @@ This R script is designed to analyze behavioral data collected from subjects und
 - ade4: Dissimilarity matrix calculation.
 - broom: Tidying model outputs.
 - reshape2: Reshaping data for analysis.
-
-## Note
-Ensure that the required data files and paths are correctly specified in the script before running it.
-
-For any questions or issues, please contact the script developer.
